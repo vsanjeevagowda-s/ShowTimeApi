@@ -1,4 +1,4 @@
-Show Time Api app using the api form https://www.themoviedb.org/documentation/api
+Show Time Api app using the apis form https://www.themoviedb.org/documentation/api
 
 Steps to run the server:
 
