@@ -2,6 +2,6 @@ Show Time Api app using the api form https://www.themoviedb.org/documentation/ap
 
 Steps to run the server:
 
-1. git clone https://github.com/vsanjeevagowda-s/ShowTimeApi.git
+1. $ git clone https://github.com/vsanjeevagowda-s/ShowTimeApi.git
 
-2. cd ShowTimeApi && npm install &&  npm start
+2. $ cd ShowTimeApi && npm install &&  npm start
